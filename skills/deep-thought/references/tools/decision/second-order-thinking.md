@@ -13,4 +13,4 @@
 4. Follow one more step where that response changes the original stock, incentive, or story.
 5. Keep the action, change it, or drop it based on the later effect. "And then what?" asked once is not the tool. Asked until the chain closes or dies is the tool.
 
-**Source.** The "and then what?" consequence chain, as written up by Farnam Street. That page also quotes Howard Marks. His second-level thinking is a different question and a different page. This page does not use it.
+**Source.** No single originator. The consequence chain is the popular "and then what?" question. Farnam Street's article is an index, and it equates that question with Howard Marks's second-level thinking. This page refuses that equation. Marks stays on the second-level page. The named adapters, the return into the original stock or incentive, and asking until the chain closes or dies are this page's steps.

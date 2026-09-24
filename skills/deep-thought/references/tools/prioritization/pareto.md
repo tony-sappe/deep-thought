@@ -13,4 +13,4 @@
 4. If the shares are roughly equal, stop. There is no vital few. Say that.
 5. Put the next action on the vital few. Write the long tail down so it is not quietly reintroduced as "also important".
 
-**Source.** Vilfredo Pareto observed unequal distributions, including wealth. Joseph Juran later named that pattern the Pareto principle, the vital few. The 80/20 worksheet on this page is Juran's management use, not Pareto's economics. The page says to stop when the shares are roughly equal.
+**Source.** Vilfredo Pareto observed unequal distributions, including wealth. Joseph Juran later named that pattern the Pareto principle and popularized 80/20 as the vital few. This page uses the vital few. It does not require 80/20, and it stops when the shares are roughly equal.

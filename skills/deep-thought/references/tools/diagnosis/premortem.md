@@ -13,4 +13,4 @@
 4. Cluster the reasons. Mark the ones you can still change.
 5. Change the plan, add a tripwire, or stop. Record which reasons produced no change, so the group can see what it declined.
 
-**Source.** Gary Klein, the premortem: assume the plan has already failed, then say why, before it is too late to change it. Daniel Kahneman's account of prospective hindsight is how the exercise became widely known. Klein is the method. The requirement that the plan actually change is this page's test that the exercise was real.
+**Source.** Gary Klein, the premortem: assume the plan has already failed and say why, while it can still be changed. Daniel Kahneman's account of prospective hindsight is how the exercise became widely known. Klein is the method. This page ends in a change, a tripwire, or an explicit decision to stop, and it records the reasons that produced no change.

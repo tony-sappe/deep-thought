@@ -8,6 +8,7 @@ These phrases must request the thinking workflow; quotations, mentions, plugin m
 
 When invoked, follow `skills/deep-thought/SKILL.md`:
 
+- If the prompt is only an invocation, a tool name, or a domain phrase, ask what happened or what is stuck, and stop. Do not classify.
 - Restate the prompt as an event.
 - Name the domain and the iceberg layer.
 - State the eigenquestion.

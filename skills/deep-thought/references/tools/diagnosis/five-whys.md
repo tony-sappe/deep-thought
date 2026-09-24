@@ -13,4 +13,4 @@
 4. Stop when a further why would leave this chain, or when the cause is a condition the room can change in how the work is done. Do not stop at the first action that only touches the symptom. Five is a check that you went deep. It is not a race, and it is not a cap that freezes a still-symptomatic answer.
 5. If the answer splits, stop this tool. Write the countermeasure for the cause you reached, and the observation that will show it worked.
 
-**Source.** Taiichi Ohno, Toyota Production System: ask why of a defect, then why of that answer, until the chain reaches a cause in how the work is done. "Five" is the later slogan, not a rule he published. The stop rule on this page — past the first symptom, and stop when a further why leaves the chain — is this guide's.
+**Source.** Taiichi Ohno, *Toyota Production System*: whenever a problem is found, ask why five times. Repeating why five times is what makes the problem and the countermeasure clear. This page keeps that chain and changes the stop: go past the first symptom, treat five as a depth check rather than a cap, and stop when a further why leaves the chain.

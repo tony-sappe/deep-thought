@@ -75,14 +75,13 @@ Start a **new session** (or reload) after install so the skill appears.
 Say the name, then the problem:
 
 ```text
-Deep Thought: what should we even ask?
-Deep Thought: why does this keep happening?
-Deep Thought: frame this.
+Deep Thought: what should we even ask? The team has twelve open questions about the rewrite and no decision.
+Deep Thought: why does this keep happening? We add reviewers and the queue still grows.
 ```
 
-These also invoke it: `deep thought`, `thinking tools`, `systems thinking`, `eigenquestion`, `/deep-thought`.
+These also invoke it: `deep thought`, `thinking tools`, `systems thinking`, `frame this`, `eigenquestion`, `/deep-thought`.
 
-The name alone is not a situation. `Deep Thought` or `Deep Thought: frame this.` asks what happened or what is stuck, and stops. A short stake after the phrase is enough to route.
+The reply is one question — what happened, or what is stuck — and then a stop, when the prompt is only an invocation (`Deep Thought`, `Deep Thought: frame this.`, `/deep-thought`), only a tool name (`Deep Thought: run a premortem.`), or only a domain phrase (`thinking tools`, `systems thinking`). A short stake after the phrase is enough to route.
 
 Ordinary work is not a trigger. If you did not point at the skill, it should stay out of the way. That boundary is an instruction to the model, not a host guarantee. Codex can still select the skill when a prompt matches its description. This package does not set `allow_implicit_invocation: false`. That Codex setting would leave only `$deep-thought` and would drop the phrases above.
 
