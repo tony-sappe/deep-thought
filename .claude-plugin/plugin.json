@@ -1,0 +1,19 @@
+{
+  "name": "deep-thought",
+  "version": "0.1.0",
+  "description": "A router for thinking tools. Classify the problem, then hand the smallest set of tools that change the next move.",
+  "author": {
+    "name": "Tony Sappe",
+    "url": "https://github.com/tony-sappe"
+  },
+  "homepage": "https://github.com/tony-sappe/deep-thought",
+  "repository": "https://github.com/tony-sappe/deep-thought",
+  "license": "MIT",
+  "keywords": [
+    "systems-thinking",
+    "framing",
+    "decisions",
+    "eigenquestions",
+    "skills"
+  ]
+}

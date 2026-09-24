@@ -1,0 +1,39 @@
+{
+  "name": "deep-thought",
+  "version": "0.1.0",
+  "description": "A router for thinking tools. Classify the problem, then hand the smallest set of tools that change the next move.",
+  "author": {
+    "name": "Tony Sappe",
+    "url": "https://github.com/tony-sappe"
+  },
+  "homepage": "https://github.com/tony-sappe/deep-thought",
+  "repository": "https://github.com/tony-sappe/deep-thought",
+  "license": "MIT",
+  "keywords": [
+    "systems-thinking",
+    "framing",
+    "decisions",
+    "eigenquestions",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Deep Thought",
+    "shortDescription": "The answer is useless without the question.",
+    "longDescription": "A portable thinking-tool router for coding agents (Grok Build, Codex, Claude Code, Cursor, and others). Invoke it on purpose. It classifies the problem, states the eigenquestion, and hands one primary tool plus at most two complements. It does not recite the catalogue.",
+    "developerName": "Tony Sappe",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Instructions"
+    ],
+    "websiteURL": "https://github.com/tony-sappe/deep-thought",
+    "defaultPrompt": [
+      "Deep Thought: what should we even ask?",
+      "Deep Thought: why does this keep happening?",
+      "Deep Thought: frame this."
+    ],
+    "brandColor": "#0E4D5C",
+    "composerIcon": "./assets/deep-thought-icon.jpg",
+    "logo": "./assets/deep-thought-icon.jpg"
+  }
+}

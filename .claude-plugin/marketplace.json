@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "deep-thought",
+  "description": "Deep Thought — a router that hands you the thinking tool that changes the next move.",
+  "owner": {
+    "name": "Tony Sappe",
+    "url": "https://github.com/tony-sappe"
+  },
+  "plugins": [
+    {
+      "name": "deep-thought",
+      "description": "Classify the problem, state the eigenquestion, and hand one primary tool plus at most two complements.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
