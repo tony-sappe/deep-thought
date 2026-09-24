@@ -13,4 +13,4 @@
 4. Record the result, including a result you do not like.
 5. Update the hypothesis or the plan. A test that cannot change the next action was a demo.
 
-**Source.** Scientific method as the default when you can experiment. Orientation: James Clear; ModelThinkers as an index only.
+**Source.** The hypothesis, prediction, test, and update cycle is the familiar experimental pattern. This page is that short cycle, not a history of the method. James Clear and ModelThinkers are indexes.

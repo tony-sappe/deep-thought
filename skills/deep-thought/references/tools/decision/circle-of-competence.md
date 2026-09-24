@@ -13,4 +13,4 @@
 4. Outside: you cannot tell a real expert from a confident one. Decline the bet, buy the competence, or shrink the decision until it sits inside.
 5. Write the boundary in one sentence so a later you cannot quietly expand it.
 
-**Source.** Warren Buffett and Charlie Munger, circle of competence. Orientation: [Farnam Street](https://fs.blog/mental-models/).
+**Source.** Warren Buffett, notably the 1996 shareholder letter, and Charlie Munger: know the boundary of the judgments you can make. The inside, edge, and outside zones are this page's worksheet on that boundary. Farnam Street is an index.

@@ -13,4 +13,4 @@
 4. Prepare to be wrong. Set a tripwire: a date or a measure that forces a revisit. Name the small stake you can afford to lose.
 5. Then choose. The four moves are not the decision.
 
-**Source.** Chip Heath and Dan Heath, *Decisive* (WRAP). The eigenquestions handbook points at this process.
+**Source.** Chip Heath and Dan Heath, *Decisive*: widen options, reality-test assumptions, attain distance, prepare to be wrong. The four boxes on this page follow that order. A pointer in the eigenquestions handbook is not a second source.

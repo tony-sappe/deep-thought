@@ -14,4 +14,4 @@
 5. Legitimacy: who is a witness for those affected but not involved? Who ought to be able to challenge the boundary?
 6. Record the gaps between is and ought. A gap is the output. Do not paper it over with a new org chart in the same pass.
 
-**Source.** Werner Ulrich, critical systems heuristics. Orientation: [OpenLearn systems thinking](https://www.open.edu/openlearn/systems-thinking-hub).
+**Source.** Werner Ulrich, critical systems heuristics: twelve boundary questions in four groups — motivation, control, knowledge, and legitimacy — each asked as "is" and "ought." This page asks those four groups. It does not quote all twelve questions. OpenLearn is orientation.

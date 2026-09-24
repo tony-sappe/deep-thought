@@ -13,4 +13,4 @@
 4. Act. Take that action so the next observation has something to see.
 5. Say what you expect to observe next, and how soon you will re-enter the loop. Implicit guidance is allowed when the team already shares the orientation. Say so, instead of pretending a long decision memo happened.
 
-**Source.** John Boyd, the OODA loop. Worksheet form: [Untools](https://untools.co).
+**Source.** John Boyd, the OODA loop. Observe, orient, decide, act, with orientation doing the work, is his. The five steps here are one pass through a cycle, not his full account of orientation. [Untools](https://untools.co) is a worksheet.

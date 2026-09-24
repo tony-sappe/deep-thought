@@ -13,4 +13,4 @@
 4. Mark the delay. Late correction overshoots. Say so if the delay is long relative to the rate of change.
 5. If the goal itself moves to shrink the gap, write that separately. The system is lowering the standard, not reaching it.
 
-**Source.** Balancing (negative) feedback. [Untools](https://untools.co); Donella Meadows, *Thinking in Systems*.
+**Source.** Balancing, or negative, feedback, as used by Jay Forrester and by Donella Meadows in *Thinking in Systems*. The goal, gap, action, and delay on this page are that structure. [Untools](https://untools.co) is a worksheet. A drifting goal is named here as a warning. It is not a separate tool.

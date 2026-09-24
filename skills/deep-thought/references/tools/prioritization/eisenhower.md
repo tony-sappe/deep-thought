@@ -13,4 +13,4 @@
 4. Important and not urgent: schedule it. This quadrant is the point of the tool. Name the calendar slot.
 5. Urgent and not important: delegate or shrink it. Not important and not urgent: drop it. A quadrant with no drops is a mood, not a sort.
 
-**Source.** Dwight D. Eisenhower, the urgency/importance distinction. Worksheet form: [Untools](https://untools.co).
+**Source.** The urgent-versus-important distinction is attributed to Dwight D. Eisenhower. The four quadrants and the actions do, schedule, delegate, and drop are Stephen Covey's matrix in *The 7 Habits of Highly Effective People*. [Untools](https://untools.co) is a worksheet.

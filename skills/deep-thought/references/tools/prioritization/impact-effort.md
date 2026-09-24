@@ -13,4 +13,4 @@
 4. Do a high-impact, low-effort item next, or explicitly choose a high-impact, high-effort item and say what you are delaying for it.
 5. Name at least one avoid. If everything is high impact, the impact axis is not doing any work. Rescale.
 
-**Source.** Impact–effort matrix. [Untools](https://untools.co).
+**Source.** No single originator. This page is the common sort of value against the cost of doing the work. [Untools](https://untools.co) is a worksheet, not the source.

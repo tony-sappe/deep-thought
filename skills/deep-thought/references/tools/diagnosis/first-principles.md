@@ -13,4 +13,4 @@
 4. Rebuild the smallest approach that satisfies the facts. Do not smuggle a habit back in because it is familiar.
 5. List what you did not carry forward.
 
-**Source.** First-principles reasoning; the practical short form in [James Clear, First Principles](https://jamesclear.com/first-principles).
+**Source.** Aristotle: first principles are the propositions a subject starts from. The strip-the-current-design and rebuild steps are the modern practical form. [James Clear](https://jamesclear.com/first-principles) retells that form. He is not the origin.

@@ -14,4 +14,4 @@
 5. High impact, easy to compare: a big choice. Hand it to a decision matrix.
 6. High impact, hard to compare: O'Haire's hard choice. Then apply Ruth Chang. If one option is not better, not worse, and not equal, the options are on a par. A weighted score invents a comparison. Commitment creates a reason. It does not uncover a hidden winner.
 
-**Source.** Wes O'Haire, the hard-choice model (impact × comparability). Worksheet: [Untools](https://untools.co/hard-choice-model/). Ruth Chang, "Hard Choices": the alternatives are on a par. Neither source uses a tragic third kind.
+**Source.** Wes O'Haire, the hard-choice model: impact × comparability, with four cells (no-brainer, apples and oranges, big choice, hard choice). Worksheet: [Untools](https://untools.co/hard-choice-model/). Ruth Chang, "Hard Choices": in the hard-choice cell, the alternatives can be on a par, not better, worse, or equal. This page runs O'Haire's grid first and uses Chang only in that cell. Neither source uses a tragic third kind.

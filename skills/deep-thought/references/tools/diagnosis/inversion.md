@@ -13,4 +13,4 @@
 4. Circle the moves already happening.
 5. For each circled move, name a block, a removal, or a decision to stop. A list with no change is not the tool.
 
-**Source.** Carl Gustav Jacob Jacobi; Charlie Munger's use of inversion. [James Clear, Inversion](https://jamesclear.com/inversion).
+**Source.** Carl Gustav Jacob Jacobi, reported as "invert, always invert," and Charlie Munger's use of that move. The failure list and the blocks on this page are a worksheet. [James Clear](https://jamesclear.com/inversion) retells the idea. He is not the origin.

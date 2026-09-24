@@ -13,4 +13,4 @@
 4. If one bone is empty, ask whether that category is absent or unexamined.
 5. Either drill one evidenced cause with 5 Whys, or stop because the spread itself shows the missing category.
 
-**Source.** Kaoru Ishikawa. Worksheet form: [Untools](https://untools.co).
+**Source.** Kaoru Ishikawa, the cause-and-effect diagram. The six manufacturing labels (method, material, machine, person, measurement, environment) are a later teaching set, not a list he required. This page says to rename any bone that does not exist here. [Untools](https://untools.co) is a worksheet.

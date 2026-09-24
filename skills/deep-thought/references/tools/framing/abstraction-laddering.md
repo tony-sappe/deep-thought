@@ -13,4 +13,4 @@
 4. Choose the rung the next decision actually requires. Rewrite the problem in one sentence at that altitude.
 5. Name one rung you will not work at in this pass.
 
-**Source.** S. I. Hayakawa, the ladder of abstraction. Worksheet form: [Untools](https://untools.co).
+**Source.** S. I. Hayakawa, *Language in Thought and Action*: a ladder of words, from a concrete instance up to a broad category. The why-up and how-down problem ladder on this page is a later facilitation use of that image. [Untools](https://untools.co) is the worksheet, not Hayakawa's chapter.

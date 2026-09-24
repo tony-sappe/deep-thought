@@ -13,4 +13,4 @@
 4. Record what broke, which assumption did the work, and which observation would change your mind.
 5. Commit, change the frame, or replace this rehearsal with a real probe. Do not treat the rehearsal as evidence from the world.
 
-**Source.** Thought experiment as a mental model. [Farnam Street](https://fs.blog/mental-models/); James Clear's mental-model shortlist.
+**Source.** The thought experiment is an old philosophical practice, not a method owned by a blog. The five steps here are this guide's worksheet for walking one concrete case. Farnam Street and James Clear are indexes.

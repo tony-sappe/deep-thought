@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/skills-1-0E4D5C?style=flat-square&labelColor=111111" alt="1 skill">
-  <img src="https://img.shields.io/badge/tools-66-0E4D5C?style=flat-square&labelColor=111111" alt="66 tools">
+  <img src="https://img.shields.io/badge/tools-67-0E4D5C?style=flat-square&labelColor=111111" alt="67 tools">
   <img src="https://img.shields.io/badge/hosts-Grok%20%7C%20Codex%20%7C%20Claude%20%7C%20Cursor%20%2B-111111?style=flat-square" alt="Works across coding agents">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-111111?style=flat-square" alt="MIT license"></a>
 </p>
@@ -82,7 +82,9 @@ Deep Thought: frame this.
 
 These also invoke it: `deep thought`, `thinking tools`, `systems thinking`, `eigenquestion`, `/deep-thought`.
 
-Ordinary work is not a trigger. If you did not point at the skill, it should stay out of the way.
+The name alone is not a situation. `Deep Thought` or `Deep Thought: frame this.` asks what happened or what is stuck, and stops. A short stake after the phrase is enough to route.
+
+Ordinary work is not a trigger. If you did not point at the skill, it should stay out of the way. That boundary is an instruction to the model, not a host guarantee. Codex can still select the skill when a prompt matches its description. This package does not set `allow_implicit_invocation: false`. That Codex setting would leave only `$deep-thought` and would drop the phrases above.
 
 When it runs, it does five things and stops:
 

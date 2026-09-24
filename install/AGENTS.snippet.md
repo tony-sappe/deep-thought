@@ -4,6 +4,8 @@ The answer is useless without the question. This plugin routes. It does not run 
 
 Invoke with Deep Thought, deep thought, thinking tools, systems thinking, frame this, eigenquestion, or `/deep-thought`.
 
+These phrases must request the thinking workflow; quotations, mentions, plugin maintenance, and unrelated uses such as "frame this image" do not invoke it.
+
 When invoked, follow `skills/deep-thought/SKILL.md`:
 
 - Restate the prompt as an event.

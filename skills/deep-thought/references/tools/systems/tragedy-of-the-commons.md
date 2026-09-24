@@ -13,4 +13,4 @@
 4. Check that the cost lands on the stock or on everyone, not on the user in proportion to their take.
 5. Name an intervention at information, rules, or who feels the cost. If you need the rank of that move, use leverage points as a complement.
 
-**Source.** Garrett Hardin, "The Tragedy of the Commons"; the archetype in Donella Meadows and in Peter Senge, *The Fifth Discipline*.
+**Source.** Garrett Hardin, "The Tragedy of the Commons" (*Science*, 1968), is the essay. The diagram on this page is the systems archetype as taught by Peter Senge in *The Fifth Discipline* and discussed by Donella Meadows: a shared stock, private gain, and weak or delayed feedback to the user. The page teaches that diagram, not Hardin's population argument.

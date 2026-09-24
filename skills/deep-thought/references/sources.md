@@ -1,6 +1,6 @@
 # Sources
 
-Cite the originator. Indexes are how a tool was found, not the authority for the procedure.
+Cite the originator. Indexes are how a tool was found, not the authority for the procedure. When a page changes a method, the source line names the originator and then states the change. Untools, Farnam Street, James Clear, Ness Labs, ModelThinkers, and OpenLearn are indexes or worksheets, never the origin.
 
 ## Canon
 
@@ -13,6 +13,8 @@ Cite the originator. Indexes are how a tool was found, not the authority for the
 - John Boyd, OODA
 - Eliyahu Goldratt, theory of constraints and the evaporating cloud
 - Charlie Munger and the Farnam Street lattice, [mental models](https://fs.blog/mental-models/); James Clear's short essays where a page names them
+- Howard Marks, second-level thinking (*The Most Important Thing*; [I Beg to Differ](https://www.oaktreecapital.com/insights/memo/i-beg-to-differ)). Not the same question as a second-order consequence chain.
+- Stuart Pugh, concept selection (*Total Design*; ICED 1981). The decision-matrix page states what it changed.
 - Shishir Mehrotra, [Eigenquestions](https://docs.superhuman.com/@shishir/eigenquestions-the-art-of-framing-problems)
 - Untools, as the practical worksheet layer: [untools.co](https://untools.co)
 - Harvard Project Zero, visible thinking routines only: [thinking routines](https://pz.harvard.edu/thinking-routines)

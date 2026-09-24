@@ -13,4 +13,4 @@
 4. Stop and let them respond. The tool is the three sentences plus the pause.
 5. If a request follows, make it a future behavior, not a trait.
 
-**Source.** Situation–behavior–impact feedback. Worksheet form: [Untools](https://untools.co). The Center for Creative Leadership is the usual source of the form.
+**Source.** The Center for Creative Leadership, situation–behavior–impact: the situation, the observable behavior, and the impact, with no motive in the sentence. [Untools](https://untools.co) is a worksheet. The pause for a response is part of using the form. It is not a fourth sentence CCL requires.

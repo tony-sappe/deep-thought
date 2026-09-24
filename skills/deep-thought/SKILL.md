@@ -1,6 +1,6 @@
 ---
 name: deep-thought
-description: "Route an explicit thinking problem to one primary tool and at most two complements. Use only when the user says Deep Thought, deep thought, thinking tools, systems thinking, frame this, or eigenquestion, or runs /deep-thought. Do not use on work the user did not point at this skill."
+description: "Route an explicit thinking problem to one primary tool and at most two complements. Use only when the user invokes Deep Thought, deep thought, thinking tools, systems thinking, frame this, eigenquestion, or /deep-thought to frame a problem. Mentions, quotations, and ordinary editing requests are not invocations."
 license: MIT
 metadata:
   collection: deep-thought
@@ -13,7 +13,21 @@ metadata:
 
 Only when the user invokes Deep Thought, deep thought, thinking tools, systems thinking, frame this, or eigenquestion, or runs `/deep-thought`.
 
+The user must be asking for this thinking workflow. Quoted text, names in documents, and requests to edit or review the plugin are not invocations. Neither is an unrelated use such as "frame this image".
+
 If this skill loaded for any other reason, say you are not routing and do the user's actual ask. Do not classify it.
+
+## Incomplete input
+
+A situation is a concrete stake already in the prompt: what happened, what is stuck, or the options and facts in dispute. The skill name, a trigger phrase, and a tool name are not a situation.
+
+Ask one question — what happened, or what is stuck — and stop. Do not read the taxonomy. Do not emit the output template. Do not invent an event, a domain, a layer, a tool, or facts. This is the whole reply when:
+
+- The prompt is only an invocation: `Deep Thought`, `Deep Thought: frame this.`, or `/deep-thought`.
+- The prompt names a tool and nothing else: `Deep Thought: run a premortem.`
+- The prompt is only a domain phrase: `thinking tools` or `systems thinking`.
+
+Continue when a situation is present, even if it is short. `Deep Thought: frame this. The team has twelve open questions and no decision.` is enough. So is a named disagreement or a set of options with facts.
 
 ## Protocol
 
@@ -48,7 +62,7 @@ Steps:
 1. ...
 Source: <as on the page>
 Complements: <none, or one or two in the same shape>
-Next: <diagram to draw, or the physical action>
+Next: <physical action and the diagram named on the primary page>
 ```
 
 Three tools is the ceiling. Zero complements is normal.
@@ -60,5 +74,5 @@ Three tools is the ceiling. Zero complements is normal.
 - Bias overlay as the main move
 - Generic steps that could apply to any problem
 - A solution smuggled into the event line
-- Merged tools resurrected under their old names (Pugh matrix, second-level thinking, a generic "feedback loop")
+- A separate page for a merged name (Pugh matrix, a generic "feedback loop"). Use the page that absorbed it.
 - Five Whys pushed through a loop or a multi-cause mess

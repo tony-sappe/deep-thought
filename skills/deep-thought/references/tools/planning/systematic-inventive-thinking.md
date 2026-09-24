@@ -18,4 +18,4 @@
 4. Keep it only if it serves the job the user hired the product for. A clever rearrangement that does not is a discard.
 5. If the template only produced the current design, say so and try one different template. Do not quietly leave the closed world.
 
-**Source.** Systematic inventive thinking (the closed-world templates associated with Goldenberg and colleagues). Indexed by Ness Labs.
+**Source.** Systematic inventive thinking: the closed-world templates developed by Jacob Goldenberg, Roni Horowitz, Amnon Levav, and David Mazursky, later presented in Drew Boyd and Jacob Goldenberg, *Inside the Box*. The five templates on this page are those. Ness Labs is an index.

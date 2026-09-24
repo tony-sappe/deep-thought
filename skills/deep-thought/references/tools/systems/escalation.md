@@ -14,4 +14,4 @@
 5. Success to the successful: name a rule that allocates some of the resource by a criterion other than current success.
 6. Say which shape you have, in one sentence, before recommending a move.
 
-**Source.** Escalation, and success to the successful. Peter Senge, *The Fifth Discipline*.
+**Source.** Peter Senge, *The Fifth Discipline*: two archetypes. Escalation is two actors answering each other. Success to the successful is one resource flowing to the current leader. This page keeps both and says which shape the case is. Neither is a single reinforcing loop.

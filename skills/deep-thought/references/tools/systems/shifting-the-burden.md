@@ -14,4 +14,4 @@
 5. Say which of the two you have. A fix that merely fades is not yet a burden shift.
 6. Name one move that strengthens the fundamental solution, and which symptomatic relief you will reduce so the atrophy link can weaken.
 
-**Source.** Shifting the burden, and fixes that fail. Peter Senge, *The Fifth Discipline*.
+**Source.** Peter Senge, *The Fifth Discipline*: two archetypes. Fixes that fail return after a delay. Shifting the burden also atrophies the fundamental solution. This page keeps both and says which one the case is. It does not treat them as one loop.

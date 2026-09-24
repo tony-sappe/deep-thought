@@ -13,4 +13,4 @@
 4. Ask whether the proposed fix pushes the reinforcing loop (more effort) or relaxes the constraint.
 5. Name an early signal that the limit is near, taken from the limiting stock, not from the success metric alone.
 
-**Source.** Limits-to-growth archetype. Donella Meadows; Peter Senge, *The Fifth Discipline*.
+**Source.** Peter Senge, *The Fifth Discipline*, the limits-to-growth archetype: a reinforcing success meets a balancing constraint. Donella Meadows, Dennis Meadows, Jørgen Randers, and William Behrens, *The Limits to Growth*, is the World3 study, not this diagram. This page teaches the archetype.

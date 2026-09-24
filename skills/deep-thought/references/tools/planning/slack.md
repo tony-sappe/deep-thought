@@ -13,4 +13,4 @@
 4. Say what you will not fully utilize anymore. Slack that is scheduled full is not slack.
 5. Name the signal that the slack is being used up, so the next response is to restore it or to redesign the flow, not to hero through.
 
-**Source.** Redundancy and slack as engineering heuristics. James Clear's mental-model shortlist. Buffers as a leverage point: Donella Meadows.
+**Source.** No single canonical essay. Spare capacity against variance is an engineering heuristic. Donella Meadows's buffers are one leverage point, not this whole page. James Clear is an index.

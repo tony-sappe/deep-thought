@@ -13,4 +13,4 @@
 4. Decide whether the upcoming decision stays inside that purpose. If it does not, do not decide from this map.
 5. Write one change to the map, or name the tool that should replace it.
 
-**Source.** Alfred Korzybski. Orientation: [Farnam Street, mental models](https://fs.blog/mental-models/).
+**Source.** Alfred Korzybski, *Science and Sanity*: the map is not the territory. The audit steps on this page are this guide's check. They are not a chapter of that book. Farnam Street is an index.

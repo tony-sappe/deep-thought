@@ -13,4 +13,4 @@
 4. One hat at a time. A black-hat objection during green gets parked until black.
 5. Blue closes. What did we decide, what is the next action, which hat we still owe if the sequence was cut short.
 
-**Source.** Edward de Bono, six thinking hats. Worksheet form: [Untools](https://untools.co).
+**Source.** Edward de Bono, *Six Thinking Hats*. White, red, black, yellow, green, and blue are his modes, and the whole group wears one hat at a time. The sequence on this page is one usable order, not the only order he allowed. [Untools](https://untools.co) is a worksheet.

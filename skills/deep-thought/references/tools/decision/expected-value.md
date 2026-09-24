@@ -14,4 +14,4 @@
 5. Opportunity cost: the value of an option includes not taking the best other option. State the forgone option beside the winner.
 6. If a guess dominates the sum, the next action is to shrink that guess, not to treat the total as a fact.
 
-**Source.** Expected value and opportunity cost. [Farnam Street, mental models](https://fs.blog/mental-models/); James Clear's economics shortlist.
+**Source.** Probability times magnitude is mathematical expectation, from the seventeenth-century work of Pascal, Fermat, and Huygens. The best option you give up is opportunity cost, a separate economic idea. This page uses both in one pass. Farnam Street and James Clear are indexes.

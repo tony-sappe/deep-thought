@@ -13,4 +13,4 @@
 4. Repeat until each leaf is a fact you can get or a decision you can make.
 5. Mark the leaves that would change the root answer. Work those. Leave the rest.
 
-**Source.** Issue-tree practice in the lineage of Barbara Minto. Worksheet form: [Untools](https://untools.co).
+**Source.** The issue tree is consulting practice: one question, split until the leaves can be answered. The non-overlapping, nothing-left-out test is Barbara Minto's MECE rule from *The Pyramid Principle*. The tree is not that book. [Untools](https://untools.co) is a worksheet.

@@ -13,4 +13,4 @@
 4. Prefer the survivor with the fewest remaining new assumptions.
 5. Name the one observation that would force the more complicated survivor back into contention.
 
-**Source.** William of Ockham. Orientation: [Farnam Street, mental models](https://fs.blog/mental-models/).
+**Source.** William of Ockham: do not multiply entities beyond necessity. "The fewest new assumptions that still fit the facts" is the modern practical form used here. Farnam Street is an index.

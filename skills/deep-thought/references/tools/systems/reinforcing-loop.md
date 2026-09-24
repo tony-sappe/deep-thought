@@ -13,4 +13,4 @@
 4. Find the balancing loop or the limit that will meet it. Unbounded reinforcing stories are unfinished.
 5. Do not read an exponential stretch as a straight line, and do not propose a parameter tweak as if it breaks the loop.
 
-**Source.** Reinforcing (positive) feedback. [Untools](https://untools.co); Donella Meadows, *Thinking in Systems*.
+**Source.** Reinforcing, or positive, feedback, as used by Jay Forrester and by Donella Meadows in *Thinking in Systems*. [Untools](https://untools.co) is a worksheet. Escalation and success to the successful are separate pages.

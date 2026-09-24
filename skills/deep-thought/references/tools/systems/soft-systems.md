@@ -14,4 +14,4 @@
 5. Compare the model to the picture. Differences are the debate, not yet the plan.
 6. Name only changes that are both desirable under the worldview and culturally feasible. Do not smuggle in a worldview nobody in the situation holds.
 
-**Source.** Peter Checkland, soft systems methodology. Orientation: [OpenLearn systems thinking](https://www.open.edu/openlearn/systems-thinking-hub).
+**Source.** Peter Checkland, soft systems methodology. CATWOE is the root-definition checklist used inside it. The six moves here compress the usual SSM cycle. They are not a transcript of Checkland's seven stages. OpenLearn is orientation.

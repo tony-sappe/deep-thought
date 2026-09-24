@@ -14,4 +14,4 @@
 5. Chaotic → act, sense, respond. Stabilize, then place what remains into another domain.
 6. If competent people disagree on the domain, you are in disorder. Split the situation until each piece has one domain.
 
-**Source.** Dave Snowden, Cynefin. Practical summary: [Untools](https://untools.co).
+**Source.** Dave Snowden, Cynefin. The domain called Clear on this page is his later name. He earlier called it Obvious, and before that Simple. The sense-categorize, sense-analyze, probe-sense, and act-sense responses are his. [Untools](https://untools.co) is a summary.

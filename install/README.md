@@ -2,7 +2,7 @@
 
 Human notes only. The skill ships with its reference pages. Hosts still control discovery, tool permissions, and instruction following. See [`paths.md`](paths.md) for the host matrix.
 
-Usage and the four moves: root [`README.md`](../README.md).
+Usage and the five moves: root [`README.md`](../README.md).
 
 ## Grok Build
 
@@ -148,6 +148,8 @@ The destination check expects only this plugin's skill folder. For a mixed host 
 ## AGENTS.md
 
 Copy or merge `install/AGENTS.snippet.md` into the target project's `AGENTS.md` (prepend preferred). The snippet tells the agent to load this skill only when the user invokes it.
+
+The snippet's `skills/deep-thought/` paths describe this checkout. When installing into another project, replace them with the destination you used (for example, `.cursor/skills/deep-thought/`). For plugin-managed installs, refer to the host-discovered Deep Thought skill instead of assuming a project-relative path.
 
 ## Validate (no host CLIs required)
 

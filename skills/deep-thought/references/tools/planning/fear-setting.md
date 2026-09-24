@@ -13,4 +13,4 @@
 4. Cost of inaction. Write what the next six months and the next three years look like if you do not act. Include partial, boring costs.
 5. Choose with those prices visible. The tool ends in a decision or a named constraint, not in a braver mood.
 
-**Source.** Tim Ferriss, fear-setting (the define / prevent / repair worksheet). Stoic premeditation of evils is the older root. Indexed via Ryan Holiday and Ness Labs.
+**Source.** Tim Ferriss, the fear-setting worksheet: define the downside, prevent it, repair it, and price inaction. Stoic premeditation of evils is the older root, not this grid. Ryan Holiday and Ness Labs are indexes.

@@ -13,4 +13,4 @@
 4. Move the chance up or down in words or in a rough number. Do not move it to 0 or 1 unless the observation logically settles it.
 5. Name the next observation that would move it again, and the decision this current chance is good enough to support.
 
-**Source.** Probabilistic thinking. [Farnam Street, mental models](https://fs.blog/mental-models/).
+**Source.** The formal rule for updating a chance with new evidence is Bayes's. This page does not compute that rule. It is a practical pass: a base rate, one new observation, and a chance moved by hand. Farnam Street is an index.

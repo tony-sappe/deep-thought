@@ -13,4 +13,4 @@
 4. Ask what evidence would still require intent. If you do not have it, proceed on the non-malicious cause.
 5. Choose the fix for that cause. Do not design a punishment for a motive you have not shown.
 
-**Source.** Robert J. Hanlon. Orientation: [Farnam Street, mental models](https://fs.blog/mental-models/).
+**Source.** Robert J. Hanlon, the line published in Arthur Bloch's *Murphy's Law* (1980): do not attribute to malice what is adequately explained by stupidity. The two-column evidence procedure is this page's worksheet. Farnam Street is an index.

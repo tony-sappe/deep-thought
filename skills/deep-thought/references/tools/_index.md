@@ -58,7 +58,8 @@ Routing labels live in [taxonomy](../taxonomy.md). When two pages seem to fit, u
 | --- | --- | --- |
 | Decision matrix | Shared criteria, unweighted first | [page](decision/decision-matrix.md) |
 | OODA | Observe, orient, decide, act, then look again | [page](decision/ooda.md) |
-| Second-order thinking | And then what, including other people's response | [page](decision/second-order-thinking.md) |
+| Second-order thinking | Later effects, including how other people respond | [page](decision/second-order-thinking.md) |
+| Second-level thinking | Your expectation versus the consensus already in the price | [page](decision/second-level-thinking.md) |
 | Probabilistic thinking | A chance, a base rate, and the fact that would move it | [page](decision/probabilistic-thinking.md) |
 | Satisficing | Stop at good enough | [page](decision/satisficing.md) |
 | WRAP | Widen, reality-test, distance, prepare to be wrong | [page](decision/wrap.md) |

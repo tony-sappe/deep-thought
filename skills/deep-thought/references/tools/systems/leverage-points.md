@@ -28,4 +28,4 @@ Number 12 is the weakest. Number 1 is the strongest.
 4. Say which weaker move you will stop treating as the intervention.
 5. If the higher point is a goal or a paradigm, name the evidence that people will act on it. A relabeling is still a 12.
 
-**Source.** Donella Meadows, "Leverage Points: Places to Intervene in a System", [Donella Meadows Project](https://donellameadows.org/systems-thinking-resources/).
+**Source.** Donella Meadows, "Leverage Points: Places to Intervene in a System," [Donella Meadows Project](https://donellameadows.org/systems-thinking-resources/). Her essay presents them from 12, the weakest, toward 1, the strongest. This page lists the same numbers starting at 1. The numbers are hers. The reading order is this page's.

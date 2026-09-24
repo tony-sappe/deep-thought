@@ -13,4 +13,4 @@
 4. Stop when a person in the situation recognizes it, including the uncomfortable parts. If they do not, the picture is your map, not the territory.
 5. Only then, if you need structure, redraw the stable elements as a systems map: nodes, labeled relationships, boundary line. Leave polarity off until you are ready for a causal loop diagram.
 
-**Source.** Rich pictures in soft systems practice; systems maps as the next drawing. [OpenLearn systems diagramming](https://www.open.edu/openlearn/science-maths-technology/across-the-sciences/systems-thinking-diagramming-tutorials).
+**Source.** Peter Checkland, rich pictures in soft systems methodology: a drawing of people, conflict, and the climate of the situation before analysis. The systems map that this page allows second — nodes, labeled relationships, a boundary, no polarity — is the Open University teaching step. [OpenLearn's diagramming notes](https://www.open.edu/openlearn/science-maths-technology/across-the-sciences/systems-thinking-diagramming-tutorials) are orientation. Putting the map after the picture is this page's order.

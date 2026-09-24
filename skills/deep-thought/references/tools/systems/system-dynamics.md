@@ -14,4 +14,4 @@
 5. Name the policy you would test, and the stock whose graph would tell you it worked. Stop there unless a real model is in scope.
 6. Do not fill unknown parameters with numbers chosen to produce the ending you prefer.
 
-**Source.** Jay Forrester; John Sterman, *Business Dynamics*. Orientation: [OpenLearn systems thinking](https://www.open.edu/openlearn/systems-thinking-hub).
+**Source.** Jay Forrester and John Sterman, *Business Dynamics*, are the field: stocks, flows, delays, and a model that can reproduce observed behavior. This page is a gate for when a diagram cannot answer how much or when. It does not teach equations. OpenLearn is orientation.

@@ -21,6 +21,7 @@ Use this when two tools seem to fit. Keep the tool whose axis matches the event.
 | Hanlon's razor and a systems archetype | A person's motive is not required, versus a structure that produces the harm without villains. |
 | Cynefin and any tool inside a domain | Sense-making before method. Once the domain is known, stop using Cynefin as the work. |
 | OODA and a decision matrix | Tempo under incomplete data, versus scoring when criteria exist. |
+| Second-order thinking and second-level thinking | Later effects of an action, versus your expectation against the consensus already in a price. |
 | Satisficing and expected value | Stop at good enough, versus compare magnitude × probability. |
 | Eisenhower and Theory of Constraints | Personal time triage, versus subordinate the system to its bottleneck. |
 | Single-loop action and double-loop learning | Change the action to hit the target, versus change the target's governing variable. |
@@ -30,8 +31,7 @@ Use this when two tools seem to fit. Keep the tool whose axis matches the event.
 
 | Folded in | Where it lives now |
 | --- | --- |
-| Pugh matrix | Decision matrix. Start unweighted (+ / 0 / −) and add weights only when needed. |
-| Second-level thinking (Howard Marks) | Second-order thinking. |
+| Pugh matrix | Decision matrix. The unweighted datum pass is Pugh's. This page writes his S as 0, may stop at a dominant option, and adds a weighted pass that is not his method. |
 | Generic "feedback loop" | The balancing page and the reinforcing page, as a pair when both are present. |
 | Bias catalogues | One bias overlay. Not eighty tools. |
 | Temporal discounting, present bias, hyperbolic discounting | One entry on the bias overlay. |

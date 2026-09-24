@@ -257,6 +257,22 @@ class PackageTests(unittest.TestCase):
         errors = validate_installed(destination, version)
         self.assertTrue(any('hook configuration is forbidden' in error for error in errors), errors)
 
+    def test_incomplete_input_is_defined(self):
+        text = (self.root / 'skills/deep-thought/SKILL.md').read_text()
+        start = text.index('## Incomplete input')
+        protocol = text.index('## Protocol')
+        section = text[start:protocol]
+        for phrase in (
+            'are not a situation',
+            'Ask one question',
+            'Do not read the taxonomy',
+            'Deep Thought: frame this.',
+            'Deep Thought: run a premortem.',
+            'thinking tools',
+        ):
+            self.assertIn(phrase, section)
+        self.assertLess(text.index('## Incomplete input'), text.index('Read `references/taxonomy.md`'))
+
     def test_routing_tokens_stay_shared(self):
         path = self.root / 'skills/deep-thought/references/taxonomy.md'
         path.write_text(path.read_text().replace('Goals/paradigm', 'Worldview'))

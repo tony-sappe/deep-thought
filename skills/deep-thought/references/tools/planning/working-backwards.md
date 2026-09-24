@@ -13,4 +13,4 @@
 4. List the internal FAQs: what must be true in the system for the press release to be honest?
 5. Build only what the press release required. Cut scope that appears nowhere in it.
 
-**Source.** Amazon, working backwards (press release / FAQ). Indexed by ModelThinkers.
+**Source.** Amazon's working-backwards practice: a press release and FAQ before the build. Colin Bryar and Bill Carr, *Working Backwards*, is the public account. ModelThinkers is an index. The steps here are that practice, not a chapter transcript.
